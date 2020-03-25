@@ -1,0 +1,62 @@
+{
+	"bibliotheque": {
+		"movies": [
+			{
+				"title": "H2G2",
+				"director": "Grath Jennings",
+				"year": 1998
+			},
+			{
+				"title": "V",
+				"director": "George King",
+				"year": 2001
+			},
+			{
+				"title": "Sunshine",
+				"director": "Stephan Smith",
+				"year": 1979
+			}
+		],
+		"books": [
+			{
+				"title": "First Case, Second Case (Ghazieh-e Shekl-e Aval, Ghazieh-e Shekl-e Dou Wom)",
+				"author": "Nathalie Devita",
+				"year": 2008,
+				"isbn": 9992158107
+			},
+			{
+				"title": "Dirty Pictures",
+				"author": "Halley Westrope",
+				"year": 1998,
+				"isbn": 8535902775
+			},
+			{
+				"title": "Into the Sun",
+				"author": "Tabbie Braxton",
+				"year": 1993,
+				"isbn": 1943396042
+			}
+		],
+		"music": [
+			{
+				"title": "Fantomas Unleashed",
+				"composer": "Isiahi Kowalski",
+				"year": 2007
+			},
+			{
+				"title": "Looking for Eric",
+				"composer": "Gweneth Daws",
+				"year": 1996
+			},
+			{
+				"title": "Man from Planet X, The",
+				"composer": "Nanine Muselli",
+				"year": 1992
+			}
+		],
+		"photographs": [],
+		"documents": []
+	}
+}
+
+
